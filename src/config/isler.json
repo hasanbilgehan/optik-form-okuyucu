@@ -1,1 +1,102 @@
-
+{
+    "OKUL KODU": {
+        "başlangıç": [100, 120],
+        "bitiş": [380, 320],
+        "daire_sayısı": "8x8",
+        "değerler": {
+            "sütunlar": "0,1,2,3,4,5,6,7,8,9"
+        }
+    },
+    "ÖĞRENCİ NUMARASI": {
+        "başlangıç": [420, 120],
+        "bitiş": [580, 320],
+        "daire_sayısı": "4x8",
+        "değerler": {
+            "sütunlar": "0,1,2,3,4,5,6,7,8,9"
+        }
+    },
+    "SINIF": {
+        "başlangıç": [600, 120],
+        "bitiş": [640, 320],
+        "daire_sayısı": "1x5",
+        "değerler": {
+            "sınıf": "09,10,11,12,MZ"
+        }
+    },
+    "SUBE": {
+        "başlangıç": [660, 120],
+        "bitiş": [680, 320],
+        "daire_sayısı": "1x8",
+        "değerler": {
+            "şube": "A,B,C,D,E,F,G,H"
+        }
+    },
+    "TC KİMLİK/CEP TEL": {
+        "başlangıç": [100, 450],
+        "bitiş": [380, 550],
+        "daire_sayısı": "11x4",
+        "değerler": {
+            "sütunlar": "0,1,2,3,4,5,6,7,8,9"
+        }
+    },
+    "GRUP NO": {
+        "başlangıç": [420, 450],
+        "bitiş": [500, 550],
+        "daire_sayısı": "3x4",
+        "değerler": {
+            "sütunlar": "0,1,2,3,4,5,6,7,8,9"
+        }
+    },
+    "ADI SOYADI": {
+        "başlangıç": [100, 650],
+        "bitiş": [900, 800],
+        "daire_sayısı": "29x8",
+        "değerler": {
+            "karakterler": "A,B,C,Ç,D,E,F,G,Ğ,H,I,İ,J,K,L,M,N,O,Ö,P,R,S,Ş,T,U,Ü,V,Y,Z"
+        }
+    },
+    "TEST_1_TURKCE": {
+        "başlangıç": [100, 850],
+        "bitiş": [220, 1200],
+        "daire_sayısı": "5x40",
+        "soru_aralığı": "1-40",
+        "değerler": {
+            "seçenekler": "A,B,C,D,E"
+        }
+    },
+    "TEST_2_SOSYAL": {
+        "başlangıç": [240, 850],
+        "bitiş": [360, 1200],
+        "daire_sayısı": "5x40",
+        "soru_aralığı": "1-40",
+        "değerler": {
+            "seçenekler": "A,B,C,D,E"
+        }
+    },
+    "TEST_3_MATEMATIK": {
+        "başlangıç": [380, 850],
+        "bitiş": [500, 1200],
+        "daire_sayısı": "5x40",
+        "soru_aralığı": "1-40",
+        "değerler": {
+            "seçenekler": "A,B,C,D,E"
+        }
+    },
+    "TEST_4_FEN": {
+        "başlangıç": [520, 850],
+        "bitiş": [640, 1200],
+        "daire_sayısı": "5x40",
+        "soru_aralığı": "1-40",
+        "değerler": {
+            "seçenekler": "A,B,C,D,E"
+        }
+    },
+    "KITAPCIK_TURU": {
+        "başlangıç": [100, 400],
+        "bitiş": [200, 440],
+        "daire_sayısı": "2x1",
+        "değerler": {
+            "seçenekler": "A,B"
+        }
+    }
+}
